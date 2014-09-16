@@ -1,17 +1,19 @@
-{ 
-    "name" : "opencalais-client"
-  , "description" : "OpenCalais Client library"
-  , "version" : "0.1.0"
-  , "directories" : { "lib" : "./lib" }
-  , "keywords" : ["opencalais","API","client"]
-  , "main" : "index.js"
-  , "author" : "Juan Pablo Kutianski <jkutianski@gmail.com>"
-  , "dependencies" : {
-        "superagent": "0.18.x",
-        "xmlbuilder": "2.4.x"
-    }
-  , "repository" : {
-        "type" : "git",
-        "url" : "http://github.com/jkutianski/opencalais-client.git"
-    }
+{
+  "name": "opencalais-client",
+  "description": "Opencalais is a service that automatically extracts semantic information from text or web",
+  "version": "0.1.0",
+  "directories": {
+    "lib": "./lib"
+  },
+  "keywords": ["opencalais", "opencalais.om", "API", "client"],
+  "main": "index.js",
+  "author": "Juan Pablo Kutianski <jkutianski@gmail.com>",
+  "dependencies": {
+    "superagent": "0.18.x",
+    "xmlbuilder": "2.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jkutianski/opencalais-client.git"
+  }
 }
