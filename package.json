@@ -1,0 +1,17 @@
+{ 
+    "name" : "opencalais-client"
+  , "description" : "OpenCalais Client library"
+  , "version" : "0.1.0"
+  , "directories" : { "lib" : "./lib" }
+  , "keywords" : ["opencalais","API","client"]
+  , "main" : "index.js"
+  , "author" : "Juan Pablo Kutianski <jkutianski@gmail.com>"
+  , "dependencies" : {
+        "superagent": "0.18.x",
+        "xmlbuilder": "2.4.x"
+    }
+  , "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/jkutianski/opencalais-client.git"
+    }
+}

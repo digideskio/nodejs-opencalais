@@ -1,0 +1,30 @@
+<Results>
+	<Entity type="Country" name="Argentina" relevance="0.269">
+		<appear>Argentina</appear>
+	</Entity>
+	<Entity type="Person" name="Marcelo Longobardi" relevance="0.111">
+		<appear>Marcelo Longobardi</appear>
+	</Entity>
+	<Entity type="Person" name="Eduardo Costantini" relevance="0.128">
+		<appear>Eduardo Costantini</appear>
+	</Entity>
+	<Entity type="Company" name="Blaistein" relevance="0.194">
+		<appear>Blaistein</appear>
+	</Entity>
+	<Entity type="URL" name="http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html" relevance="0.337">
+		<appear>http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html</appear>
+	</Entity>
+	<Entity type="Person" name="Andy Deutsch" relevance="0.338">
+		<appear>Andy Deutsch</appear>
+		<appear>Deutsch</appear>
+	</Entity>
+	<Entity type="Currency" name="Dólar" relevance="0.570">
+		<appear>millón de dólares</appear>
+	</Entity>
+	<Entity type="Person" name="Marcelo Tinelli" relevance="0.148">
+		<appear>Marcelo Tinelli</appear>
+	</Entity>
+	<Entity type="Person" name="Gustavo Ranucci" relevance="0.148">
+		<appear>Gustavo Ranucci</appear>
+	</Entity>
+</Results>

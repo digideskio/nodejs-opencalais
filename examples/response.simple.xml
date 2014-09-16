@@ -1,0 +1,25 @@
+<!--Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.-->
+<!--\nCompany: Blaistein,\nCountry: Argentina,\nCurrency: Dólar,\nPerson: Marcelo Longobardi,Eduardo Costantini,Andy Deutsch,Marcelo Tinelli,Gustavo Ranucci,\nURL: http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.htmlQuiénes,\n-->
+<OpenCalaisSimple>
+    <Description>
+        <allowDistribution>false</allowDistribution>
+        <allowSearch>false</allowSearch>
+        <calaisRequestID>b9c546ba-512e-4d78-1487-cb2a17a51bc7</calaisRequestID>
+        <id>http://id.opencalais.com/1vSs0VlCaHbRDL-aJL4RYQ</id>
+        <about>http://d.opencalais.com/dochash-1/1af27cae-f3b7-37eb-acbb-72bce7290ff6</about>
+        <docTitle/>
+        <docDate>2014-09-16 00:22:34.774</docDate>
+        <externalMetadata/>
+    </Description>
+    <CalaisSimpleOutputFormat>
+        <Currency count=\"2\" relevance=\"0.570\">Dólar</Currency>
+        <Person count=\"2\" relevance=\"0.338\">Andy Deutsch</Person>
+        <Company count=\"1\" relevance=\"0.194\">Blaistein</Company>
+        <Country count=\"1\" relevance=\"0.269\" normalized=\"Argentina\">Argentina</Country>
+        <Person count=\"1\" relevance=\"0.111\">Marcelo Longobardi</Person>
+        <Person count=\"1\" relevance=\"0.128\">Eduardo Costantini</Person>
+        <Person count=\"1\" relevance=\"0.148\">Marcelo Tinelli</Person>
+        <Person count=\"1\" relevance=\"0.148\">Gustavo Ranucci</Person>
+        <URL count=\"1\" relevance=\"0.337\">http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.htmlQuiénes</URL>
+    </CalaisSimpleOutputFormat>
+</OpenCalaisSimple>

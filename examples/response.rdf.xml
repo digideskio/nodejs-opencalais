@@ -1,0 +1,266 @@
+<!--Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service.-->
+<!--Relations: 
+Company: Blaistein
+Country: Argentina
+Currency: Dólar
+Person: Andy Deutsch, Eduardo Costantini, Gustavo Ranucci, Marcelo Longobardi, Marcelo Tinelli
+URL: http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html
+-->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:c="http://s.opencalais.com/1/pred/">
+    <rdf:Description c:allowDistribution="false" c:allowSearch="false" c:calaisRequestID="435be063-f01e-73f6-1487-cbc8d5b4037b" c:id="http://id.opencalais.com/-AjEhNR6fBls1n1NFf8KBg" rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfo" />
+        <c:document>
+            <![CDATA[Tragedia aérea en Tigre: http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html Quiénes son los dueños de las casas de Nordelta dañadas por el aviónUna de ellas quedó totalmente destruida. Y otras dos sufrieron importantes daños. Están ubicadas en La Isla, la zona más cotizada de Nordelta. Allí las viviendas cuestan, en promedio, un millón de dólares.La Isla, el barrio donde cayó ayer el avión piloteado por Andy Deutsch, ex dueño de LAPA, es el más lujoso del megacomplejo Nordelta. Se trata, incluso, de la zona residencial considerada la más exclusiva de la Argentina, habitada por empresarios y celebridades de diferentes rubros.La caída de la aeronave de Deutsch provocó serios daños en tres casas de la zona. Primero golpeó con el techo de un chalé, luego impactó en el pavimento de la calle que separa dos terrenos, y se fue encima de una segunda casa, que sufrió los peores daños. Esta vivienda pertenece a la familia Blaistein, dueña de la cadena de locales de venta de sanitarios y otros materiales para la construcción y el hogar. "La casa sobre la cual cayó la aeronave quedó totalmente destruida; no está habitable para nada”, confirmó esta mañana en declaraciones radiales el intendente de Tigre, Julio Zamora. Por último, las llamas afectaron también la mansión del empresario del fútbol Gustavo Ranucci, un representante de jugadores que supo estar cerca de Marcelo Tinelli cuando el ahora vicepresidente de San Lorenzo se acercó al club con jugadores en el 2008.Las casas más afectadas están situadas frente a la de la hija de Eduardo Costantini, desarrollador de Nordelta, que no está en este momento en el país. Y también están muy cerca de donde vive el periodista Marcelo Longobardi.La Isla tiene en total 273 lotes, rodeados de verde y espejos de agua, a solamente una hora de la Capital Federal. Las casas más chicas del barrio tienen 500 metros cuadrados de superficie cubierta, y hay de hasta 1.500 metros cuadrados. En promedio, las operaciones de compra de inmuebles del lugar ronda el millón de dólares.]]>
+        </c:document>
+        <c:docTitle/>
+        <c:docDate>2014-09-16 00:33:24.968</c:docDate>
+        <c:externalMetadata/>
+    </rdf:Description>
+    <rdf:Description c:contentType="text/raw" c:emVer="7.1.1103.5" c:langIdVer="DefaultLangId" c:language="Spanish" c:processingVer="CalaisJob01" c:submissionDate="2014-09-16 00:33:24.827" rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/meta">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/DocInfoMeta" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:submitterCode>1d8ffe61-098e-9c30-3038-e2e8857cfcb5</c:submitterCode>
+        <c:signature>digestalg-1|h2Of6vNmN0O2gqUWkczY/IVdNFU=|QHTubk16o2Fa9HEVURWfPggNbboa5KFrqrOQKi/JLkO2GhywBo2iXw==</c:signature>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/lid/DefaultLangId">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/lid/DefaultLangId" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:lang rdf:resource="http://d.opencalais.com/lid/DefaultLangId/Spanish" />
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Country" />
+        <c:name>Argentina</c:name>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/1">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea" />
+        <!--Country: Argentina; -->
+        <c:detection>[residencial considerada la más exclusiva de la ]Argentina[, habitada por empresarios y celebridades de]</c:detection>
+        <c:prefix>residencial considerada la más exclusiva de la</c:prefix>
+        <c:exact>Argentina</c:exact>
+        <c:suffix>, habitada por empresarios y celebridades de</c:suffix>
+        <c:offset>588</c:offset>
+        <c:length>9</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/1">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea" />
+        <c:relevance>0.269</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/pershash-1/4c182b11-dd2d-3214-ad97-2469c6aec8be">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person" />
+        <c:name>Marcelo Longobardi</c:name>
+        <c:commonname>Marcelo Longobardi</c:commonname>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/2">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4c182b11-dd2d-3214-ad97-2469c6aec8be" />
+        <!--Person: Marcelo Longobardi; -->
+        <c:detection>[están muy cerca de donde vive el periodista ]Marcelo Longobardi[.La Isla tiene en total 273 lotes, rodeados de]</c:detection>
+        <c:prefix>están muy cerca de donde vive el periodista</c:prefix>
+        <c:exact>Marcelo Longobardi</c:exact>
+        <c:suffix>.La Isla tiene en total 273 lotes, rodeados de</c:suffix>
+        <c:offset>1712</c:offset>
+        <c:length>18</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/2">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/4c182b11-dd2d-3214-ad97-2469c6aec8be" />
+        <c:relevance>0.111</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/pershash-1/ffcbf564-9e17-3ea1-b659-37ddca8c2f99">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person" />
+        <c:name>Eduardo Costantini</c:name>
+        <c:commonname>Eduardo Costantini</c:commonname>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/3">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ffcbf564-9e17-3ea1-b659-37ddca8c2f99" />
+        <!--Person: Eduardo Costantini; -->
+        <c:detection>[están situadas frente a la de la hija de ]Eduardo Costantini[, desarrollador de Nordelta, que no está en este]</c:detection>
+        <c:prefix>están situadas frente a la de la hija de</c:prefix>
+        <c:exact>Eduardo Costantini</c:exact>
+        <c:suffix>, desarrollador de Nordelta, que no está en este</c:suffix>
+        <c:offset>1571</c:offset>
+        <c:length>18</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/3">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/ffcbf564-9e17-3ea1-b659-37ddca8c2f99" />
+        <c:relevance>0.128</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/comphash-1/3298cc72-2f6c-3b26-99ed-85d946540437">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Company" />
+        <c:name>Blaistein</c:name>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/4">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/comphash-1/3298cc72-2f6c-3b26-99ed-85d946540437" />
+        <!--Company: Blaistein; -->
+        <c:detection>[daños. Esta vivienda pertenece a la familia ]Blaistein[, dueña de la cadena de locales de venta de]</c:detection>
+        <c:prefix>daños. Esta vivienda pertenece a la familia</c:prefix>
+        <c:exact>Blaistein</c:exact>
+        <c:suffix>, dueña de la cadena de locales de venta de</c:suffix>
+        <c:offset>953</c:offset>
+        <c:length>9</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/4">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/comphash-1/3298cc72-2f6c-3b26-99ed-85d946540437" />
+        <c:relevance>0.194</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/genericHasher-1/9a99e911-d374-32dd-9052-2250927bb610">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/URL" />
+        <c:name>http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html</c:name>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/5">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9a99e911-d374-32dd-9052-2250927bb610" />
+        <!--URL: http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html; -->
+        <c:detection>[Tragedia aérea en Tigre: ]http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html[ Quiénes son los dueños de las casas de Nordelta]</c:detection>
+        <c:prefix>Tragedia aérea en Tigre:</c:prefix>
+        <c:exact>http://www.clarin.com/sociedad/barrio-cayo-avion-lujoso-pais_0_1212478980.html</c:exact>
+        <c:suffix>Quiénes son los dueños de las casas de Nordelta</c:suffix>
+        <c:offset>25</c:offset>
+        <c:length>78</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/5">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/9a99e911-d374-32dd-9052-2250927bb610" />
+        <c:relevance>0.337</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/pershash-1/03d4d09d-454e-36a1-a724-44d96d3408c7">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person" />
+        <c:name>Andy Deutsch</c:name>
+        <c:commonname>Andy Deutsch</c:commonname>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/6">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/03d4d09d-454e-36a1-a724-44d96d3408c7" />
+        <!--Person: Andy Deutsch; -->
+        <c:detection>[ el barrio donde cayó ayer el avión piloteado por ]Andy Deutsch[, ex dueño de LAPA, es el más lujoso del]</c:detection>
+        <c:prefix>el barrio donde cayó ayer el avión piloteado por</c:prefix>
+        <c:exact>Andy Deutsch</c:exact>
+        <c:suffix>, ex dueño de LAPA, es el más lujoso del</c:suffix>
+        <c:offset>435</c:offset>
+        <c:length>12</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/7">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/03d4d09d-454e-36a1-a724-44d96d3408c7" />
+        <!--Person: Andy Deutsch; -->
+        <c:detection>[de diferentes rubros.La caída de la aeronave de ]Deutsch[ provocó serios daños en tres casas de la zona.]</c:detection>
+        <c:prefix>de diferentes rubros.La caída de la aeronave de</c:prefix>
+        <c:exact>Deutsch</c:exact>
+        <c:suffix>provocó serios daños en tres casas de la zona.</c:suffix>
+        <c:offset>687</c:offset>
+        <c:length>7</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/6">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/03d4d09d-454e-36a1-a724-44d96d3408c7" />
+        <c:relevance>0.338</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/er/geo/country/ralg-geo1/2a52adc7-b1da-6a4e-0a7a-14e4c8db1b11">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/er/Geo/Country" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <!--Argentina-->
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/33a00dd1-4139-3444-b9f4-149624f332ea" />
+        <c:name>Argentina</c:name>
+        <c:latitude>-34.0</c:latitude>
+        <c:longitude>-64.0</c:longitude>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/genericHasher-1/8c9b097d-ecc9-3d86-8c06-86d65699cb61">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Currency" />
+        <c:name>Dólar</c:name>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/8">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8c9b097d-ecc9-3d86-8c06-86d65699cb61" />
+        <!--Currency: Dólar; -->
+        <c:detection>[Allí las viviendas cuestan, en promedio, un ]millón de dólares[.La Isla, el barrio donde cayó ayer el avión]</c:detection>
+        <c:prefix>Allí las viviendas cuestan, en promedio, un</c:prefix>
+        <c:exact>millón de dólares</c:exact>
+        <c:suffix>.La Isla, el barrio donde cayó ayer el avión</c:suffix>
+        <c:offset>359</c:offset>
+        <c:length>17</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/9">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8c9b097d-ecc9-3d86-8c06-86d65699cb61" />
+        <!--Currency: Dólar; -->
+        <c:detection>[de compra de inmuebles del lugar ronda el ]millón de dólares[.]</c:detection>
+        <c:prefix>de compra de inmuebles del lugar ronda el</c:prefix>
+        <c:exact>millón de dólares</c:exact>
+        <c:suffix>.</c:suffix>
+        <c:offset>2040</c:offset>
+        <c:length>17</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/7">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/genericHasher-1/8c9b097d-ecc9-3d86-8c06-86d65699cb61" />
+        <c:relevance>0.570</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/pershash-1/f5eff168-0c15-3e81-a5f7-6e3ba157874c">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person" />
+        <c:name>Marcelo Tinelli</c:name>
+        <c:commonname>Marcelo Tinelli</c:commonname>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/10">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f5eff168-0c15-3e81-a5f7-6e3ba157874c" />
+        <!--Person: Marcelo Tinelli; -->
+        <c:detection>[de jugadores que supo estar cerca de ]Marcelo Tinelli[ cuando el ahora vicepresidente de San Lorenzo se]</c:detection>
+        <c:prefix>de jugadores que supo estar cerca de</c:prefix>
+        <c:exact>Marcelo Tinelli</c:exact>
+        <c:suffix>cuando el ahora vicepresidente de San Lorenzo se</c:suffix>
+        <c:offset>1401</c:offset>
+        <c:length>15</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/8">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/f5eff168-0c15-3e81-a5f7-6e3ba157874c" />
+        <c:relevance>0.148</c:relevance>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/pershash-1/9a40b864-464f-39e7-8a4a-65dd8a9d25db">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/em/e/Person" />
+        <c:name>Gustavo Ranucci</c:name>
+        <c:commonname>Gustavo Ranucci</c:commonname>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Instance/11">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/InstanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9a40b864-464f-39e7-8a4a-65dd8a9d25db" />
+        <!--Person: Gustavo Ranucci; -->
+        <c:detection>[también la mansión del empresario del fútbol ]Gustavo Ranucci[, un representante de jugadores que supo estar]</c:detection>
+        <c:prefix>también la mansión del empresario del fútbol</c:prefix>
+        <c:exact>Gustavo Ranucci</c:exact>
+        <c:suffix>, un representante de jugadores que supo estar</c:suffix>
+        <c:offset>1330</c:offset>
+        <c:length>15</c:length>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071/Relevance/9">
+        <rdf:type rdf:resource="http://s.opencalais.com/1/type/sys/RelevanceInfo" />
+        <c:docId rdf:resource="http://d.opencalais.com/dochash-1/f2c7e8d3-1779-3d77-9abc-4741908f1071" />
+        <c:subject rdf:resource="http://d.opencalais.com/pershash-1/9a40b864-464f-39e7-8a4a-65dd8a9d25db" />
+        <c:relevance>0.148</c:relevance>
+    </rdf:Description>
+</rdf:RDF>
