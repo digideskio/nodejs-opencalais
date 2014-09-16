@@ -5,4 +5,6 @@ nodejs-opencalais
 
  Node.js client lib for OpenCalais.com
 
+ Opencalais is a service that automatically extracts semantic information from text or web.
+
 [Calais API Docs](http://www.opencalais.com/calaisAPI)
