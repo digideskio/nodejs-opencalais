@@ -1,0 +1,1 @@
+module.exports = "{licenseID must be here}";
